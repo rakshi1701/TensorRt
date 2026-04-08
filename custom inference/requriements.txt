@@ -1,0 +1,4 @@
+tensorrt
+pycuda
+numpy
+opencv-python
